@@ -1,12 +1,12 @@
-DESIGN
+FrontEnd
 
-HOME
-BEDROOM
-DINING
-KITCHEN
-BACKYARD
+html5
+css
+javascript
+Java
+mySQL
 
-DESIGN YOUR HOUSE
+Programming
 
 2021 CHOE SEUNG HEE's Portfolio
 
